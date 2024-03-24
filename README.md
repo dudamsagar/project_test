@@ -3,7 +3,7 @@ This is a test project to show how Github works
 
 
 
-
+![image](https://th.bing.com/th/id/OIP.05b5BHN45Y0ljD4nIDxD8AHaEK?rs=1&pid=ImgDetMain)
 
 # Agenda:
 - Create a Github account - Completed
