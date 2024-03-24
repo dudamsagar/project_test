@@ -2,6 +2,7 @@
 This is a test project to show how Github works
 
 
+![SegmentLocal](https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif)
 
 ![image](https://th.bing.com/th/id/OIP.05b5BHN45Y0ljD4nIDxD8AHaEK?rs=1&pid=ImgDetMain)
 
